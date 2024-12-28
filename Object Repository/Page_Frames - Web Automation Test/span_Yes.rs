@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>6e5fd219-5a96-445b-8083-1b0b822709fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.OA0qNb.ncFHed.QXL7Te.qs41qe > div.MocG8c.HZ3kWc.mhLiyf.OIC90c.LMgvRb.KKjvXb > span.vRMGwf.oJeWuf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[2]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Yes&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>275ab635-c85a-434e-b321-70ad2863d012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vRMGwf oJeWuf</value>
+      <webElementGuid>51b1b3ed-5052-4fe5-9d40-2f0c90807e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>cd4a7a87-3f39-49b3-8eac-7aae502d6e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n&quot;]/div[@class=&quot;vQES8d&quot;]/div[@class=&quot;jgvuAb ybOdnf cGN2le t9kgXb llrsB iWO5td&quot;]/div[@class=&quot;OA0qNb ncFHed QXL7Te qs41qe&quot;]/div[@class=&quot;MocG8c HZ3kWc mhLiyf OIC90c LMgvRb KKjvXb&quot;]/span[@class=&quot;vRMGwf oJeWuf&quot;]</value>
+      <webElementGuid>44614115-485d-4b2a-af85-10df6d3bdd1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Frames - Web Automation Test/iframe_Loading</value>
+      <webElementGuid>a61754ff-de1b-4c6c-aa30-899201368055</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[2]/div[3]/span</value>
+      <webElementGuid>2ca50a99-8fc5-4926-95c4-e8ab8e1bac2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alege'])[2]/following::span[1]</value>
+      <webElementGuid>2995c2a5-c382-457e-95a4-98182ec5f4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Well, now I know :-)'])[1]/following::span[2]</value>
+      <webElementGuid>ba047792-296b-4741-b963-7577d6e49698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Well, now I know :-)'])[2]/preceding::span[1]</value>
+      <webElementGuid>f72fbba8-5f16-4d39-9d0c-4a8c0b335440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Înainte'])[1]/preceding::span[2]</value>
+      <webElementGuid>40ea2618-e2f0-42d7-9b21-3c055008c4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/span</value>
+      <webElementGuid>c1cf3dc3-7346-4842-975c-a62ba718e174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>90bdfb09-4a54-4533-81a1-0ad5d220d209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

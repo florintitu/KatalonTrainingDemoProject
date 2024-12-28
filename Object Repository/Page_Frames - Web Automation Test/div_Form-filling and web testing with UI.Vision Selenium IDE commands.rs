@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Form-filling and web testing with UI.Vision Selenium IDE commands</name>
+   <tag></tag>
+   <elementGuidId>2094e647-86e6-4270-8bc3-85bcd5ca4861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cBGGJ.OIC90c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Form-filling and web testing with UI.Vision Selenium IDE++ commands.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>adebc74b-db86-4692-be52-8c74438d2f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cBGGJ OIC90c</value>
+      <webElementGuid>aa7ee71f-7993-40f8-ab67-43ac0a5ccdbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>c955d43c-9c54-41e6-8a12-896849c99a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Form-filling and web testing with UI.Vision Selenium IDE++ commands.</value>
+      <webElementGuid>10264d49-262f-40da-8ee1-a09a5971ae18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;Dq4amc&quot;]/div[@class=&quot;m7w29c O8VmIc tIvQIf&quot;]/div[@class=&quot;N0gd6&quot;]/div[@class=&quot;cBGGJ OIC90c&quot;]</value>
+      <webElementGuid>0a651007-b5b8-48e3-b3df-56cc31e6a12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Frames - Web Automation Test/iframe_Loading</value>
+      <webElementGuid>30679907-3732-455b-af6e-f13ddd9b0635</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>b18e5f3a-6034-45f6-a871-85f916a61bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Filling Demo Page'])[2]/following::div[1]</value>
+      <webElementGuid>addf4ff6-b4e3-414b-a466-bcc9abac26ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conectează-te la Google'])[1]/preceding::div[3]</value>
+      <webElementGuid>2ef78ab4-ec66-4fe0-97e7-e546a4530339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Form-filling and web testing with UI.Vision Selenium IDE++ commands.']/parent::*</value>
+      <webElementGuid>835519fc-0d31-475f-9e3e-4b8c6847eebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]</value>
+      <webElementGuid>77d0112f-8ef6-48f7-a867-1cc1e3a54ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Form-filling and web testing with UI.Vision Selenium IDE++ commands.' or . = 'Form-filling and web testing with UI.Vision Selenium IDE++ commands.')]</value>
+      <webElementGuid>ccf7b210-8440-4527-88bc-8ff6ae77fb32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
